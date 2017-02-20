@@ -11,4 +11,7 @@ package emptyproject;
  */
 public class Mage {
     
+    public void poum () {
+        System.out.println("ldldld");
+    }
 }
