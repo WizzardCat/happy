@@ -11,4 +11,7 @@ package emptyproject;
  */
 public class Guerrier {
     
+    public void combattre (){
+        System.out.println("Je te tape");
+    }
 }
