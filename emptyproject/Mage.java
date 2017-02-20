@@ -11,7 +11,15 @@ package emptyproject;
  */
 public class Mage {
     
+<<<<<<< HEAD
     public void poum () {
         System.out.println("ldldld");
+    }
+
+    
+
+>>>>>>> develop
+public void blabla () {
+        System.out.println("blablaaaaaaaaa");
     }
 }
