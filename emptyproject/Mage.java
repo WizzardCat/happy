@@ -11,4 +11,8 @@ package emptyproject;
  */
 public class Mage {
     
+    public void blabla () {
+        System.out.println("blablaaaaaaaaa");
+    }
+
 }
